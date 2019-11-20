@@ -1,0 +1,81 @@
+ul{
+  list-style-type: none;
+  margin: 0;
+  padding::0;
+  overflow:hidden;
+  display:flex;
+  justify-content:space-around;
+}
+@import url('https://fonts.googleapis.com/css?family=Dancing+Script&display=swap');
+button{
+color:purple  ;
+background-color:black;
+height: 40px;
+font-family: 'Dancing Script', cursive;
+font-size:20px;
+border-radius:20px;
+}
+button:hover{
+  box-shadow: purple   5px 5px 5px;
+}
+#me{
+  text-align:center;
+  text-shadow: black;
+}
+
+
+@import url('https://fonts.googleapis.com/css?family=Dancing+Script&display=swap');
+
+h1{
+  color:purple  ;
+ font-family: 'Dancing Script', cursive;
+ font-size:50px;
+ text-decoration:underline overline black;
+
+}
+h1:hover{
+  text-shadow:black 5px 5px 5px;
+  background-color:black;
+}
+@import url('https://fonts.googleapis.com/css?family=Yeon+Sung&display=swap');
+p{
+  color:purple  ;
+ font-family: 'Yeon Sung', cursive;
+  font-size:34px;
+}
+p:hover{
+  background-color:black;
+}
+img{
+  width:333px;
+  height:500px;
+  
+}
+ol{
+  color:purple;
+font-family: 'Yeon Sung', cursive;
+font-size:30px;
+}
+ol:hover{
+  background-color:black;
+}
+#git{
+  font-size: 20px;
+  color: purple;
+  font-family: 'Yeon Sung', cursive;
+}
+th{
+  font-family: 'Dancing Script', cursive;
+  color: Purple;
+  font-size: 20px;
+}
+td{
+  font-size: 25px;
+  color:purple;
+  font-family: 'Yeon Sung', cursive;
+}
+#gt{
+  font-size: 20px;
+  color: purple;
+  font-family: 'Yeon Sung', cursive;
+}
